@@ -5,3 +5,4 @@ Estructura:
 - /leetcode: práctica diaria
 - /cases: casos tipo reporte
 - /notes: patrones y apuntes
+Status: working on SQL daily
